@@ -3,7 +3,7 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/HansYolo43">Duain</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-<img src = "https://github.com/HansYolo43/HansYolo43/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+<img src = "https://github.com/HansYolo43/HansYolo43/blob/main/images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
 - 🎓 Third-year Computer Science student at the University of Toronto (UofT).
 - 🏗️ Built full-stack applications and CI/CD pipelines for continuous development.
