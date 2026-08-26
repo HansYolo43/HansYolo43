@@ -76,18 +76,19 @@
 
 </td></tr></table>
 
-<br/>
+<!-- <br/> -->
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;**_Github Stats_**
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;**_Github Stats_**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<!-- <br>
 
 <p align="center">
 <a href="https://github.com/HansYolo43">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HansYolo43&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HansYolo43&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+</a> -->
+
 </p>
 
 ## 📫 Connect with Me
