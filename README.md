@@ -5,7 +5,7 @@
 
 <img src = "https://github.com/HansYolo43/HansYolo43/blob/main/images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-- 🎓 Third-year Computer Science student at the University of Toronto (UofT).
+- 🎓 Fourth-year Computer Science student at the University of Toronto (UofT).
 - 🏗️ Built full-stack applications and CI/CD pipelines for continuous development.
 - 🤖 Currently learning machine learning and systems design.
 - 🏠 Passionate about self-hosting, infrastructure, and alternative hosting solutions.
